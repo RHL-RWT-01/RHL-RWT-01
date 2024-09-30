@@ -7,7 +7,7 @@ I'm a Software Engineering student <br>Doing DSA in C++<br>Web Development<br>AI
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/r_a_h_u_l_r_a_w_a_t_01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rawat01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23101902/rahul-rawat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rhl_Rwt_01) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RahulRawat01) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rawat01) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23101902/rahul-rawat) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rhl_Rwt_01) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/RahulRawat01) 
 
 
 # 💻 Tech Stack:(Learning)
