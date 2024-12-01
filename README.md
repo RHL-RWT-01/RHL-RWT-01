@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Engineering student <br>Structuring <bold>Data</bold> using Algorithms<br>Web Development<br>AI/ML enthusiast
+Software Engineering student <br>Structuring <bold>Data</bold> using Algorithms<br>Web Development<br>AI/ML enthusiast
 
 
 ### 🔝 Top Contributed Repo
