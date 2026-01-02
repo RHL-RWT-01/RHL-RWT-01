@@ -1,13 +1,9 @@
 # 💫 About Me:
-Software Engineering student <br>Structuring <bold>Data</bold> using Algorithms<br>Web Development<br>AI/ML enthusiast
+ ## <bold> Software Engineer</bold> 
 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=RHL-RWT-01&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-rawat01) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rhl_Rwt_01)
 
 
 # 💻 Tech Stack:
